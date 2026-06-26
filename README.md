@@ -22,8 +22,9 @@ Interactive Power BI dashboard built using IPL 2022 datasets.
 
 ## Dashboard Screenshots
 
-<img width="394" height="464" alt="Home" src="https://github.com/user-attachments/assets/8f022f64-52f1-496b-8c06-a8ab155615b0" />
-<img width="396" height="462" alt="Advanced Insights" src="https://github.com/user-attachments/assets/a6129a59-4fa5-4203-8599-693627479619" />
-<img width="397" height="461" alt="Player Analysis" src="https://github.com/user-attachments/assets/20156ba4-a66a-4c9a-b4a7-196ec7d3e82c" />
-<img width="399" height="465" alt="Team Analysis" src="https://github.com/user-attachments/assets/88733ff0-e4c7-4955-93b6-aef7add49bbc" />
+<img width="432" height="436" alt="PLAYER ANALYSIS" src="https://github.com/user-attachments/assets/65d5e407-cccd-4090-8f60-3f84cecc8d06" />
+<img width="482" height="427" alt="HOME" src="https://github.com/user-attachments/assets/6321530a-1723-47a4-90c1-944a00b5cd42" />
+<img width="634" height="443" alt="ADVANCED INSIGHTS" src="https://github.com/user-attachments/assets/ba781c04-12fc-4105-b4c8-2ff9ad5ed046" />
+<img width="506" height="460" alt="TEAM ANALYSIS" src="https://github.com/user-attachments/assets/46a88cf7-b90f-4f16-b789-b39f043eaf5b" />
+
 
